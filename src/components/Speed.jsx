@@ -8,6 +8,7 @@ const sentences = [
   "Accuracy is more important than speed.",
   "Measure twice, cut once.",
 ];
+
 const TEST_DURATION = 60;
 export default function Speed() {
   const [text, setText] = useState("");
@@ -103,6 +104,7 @@ export default function Speed() {
     textarea.selectionEnd = textarea.value.length;
   };
 
+  // algo for random text
   const getRandomText = () => {
     const letters =
       "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
