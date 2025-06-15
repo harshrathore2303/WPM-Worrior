@@ -70,6 +70,13 @@ Visit `http://localhost:5173` in your browser to run the project locally.
 
 ---
 
+## 📌 Upcoming Updates
+
+* 🏆 **Leaderboard** – Track and display top WPM scores across users.
+* 🔐 **Authentication & Authorization** – User sign-up/login and personalized performance tracking.
+* 🎮 **Live Typing Contest Mode** – Real-time typing competitions between multiple users.
+
+---
 ## 🙌 Credits
 
 This project was built by Harshit Singh Rathore as part of a personal learning initiative.
