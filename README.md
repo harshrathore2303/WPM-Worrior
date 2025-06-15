@@ -62,10 +62,12 @@ Visit `http://localhost:5173` in your browser to run the project locally.
 
 * ⏱️ 60-second timer
 * 🔤 Dynamic random text generation
+* 🧠 Difficulty levels: Easy, Medium, Hard, Extremely Hard
 * ✅ Real-time WPM and accuracy tracking
 * 📈 Persistent best WPM using local storage
 * 🚫 Anti-cheat: disables arrow keys, selection, and backspace
 * 🎯 Character-level highlighting (correct, incorrect, pending)
+* ⚛️ State management using Zustand for predictable UI updates
 * 📦 Clean and minimal UI
 
 ---
