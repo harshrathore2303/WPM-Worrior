@@ -68,7 +68,7 @@ Visit `http://localhost:5173` in your browser to run the project locally.
 * 🚫 Anti-cheat: disables arrow keys, selection, and backspace
 * 🎯 Character-level highlighting (correct, incorrect, pending)
 * ⚛️ State management using Zustand for predictable UI updates
-* 📦 Clean and minimal UI
+* 📦 Clean and minimal UI using DaisyUI and Tailwind
 
 ---
 
